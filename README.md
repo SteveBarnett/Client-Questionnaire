@@ -4,7 +4,7 @@ Template questionnaire for freelance work
 
 ---
 
-# Questions
+## Questions
 
 * **Timing**. What's the start date, end date, and the reason for those dates?
 * **Scope**. What services do you require: User Experience, Design, Development? What stuff do you have already? Who's on your team for this project?
@@ -13,7 +13,7 @@ Template questionnaire for freelance work
 
 ---
 
-# Not for me if...
+## Not for me if...
 
 * **Timing**. Super-short timeline.
 * **Scope**. Very vague scope. In a silo away from others working on the project.
@@ -22,7 +22,7 @@ Template questionnaire for freelance work
 
 ---
 
-# Strongly prefer...
+## Strongly prefer...
 
 * Open Source
 * Social good / social justice
