@@ -19,3 +19,11 @@ Template questionnaire for freelance work
 * **Scope**. Very vague scope. In a silo away from others working on the project.
 * **Money**. Won't talk about money.
 * **Iron Triangle**. All three fixed.
+
+---
+
+# Strongly prefer...
+
+* Open Source
+* Social good / social justice
+* Focus on South Africa(n)
