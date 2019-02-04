@@ -17,7 +17,7 @@ Template questionnaire for freelance work
 
 * **Timing**. Super-short timeline.
 * **Scope**. Very vague scope. In a silo away from others working on the project.
-* **Money**. Won't talk about money.
+* **Money**. Won't talk about money. Won't pay 50% deposit to book time in the calendar.
 * **Iron Triangle**. All three fixed.
 
 ---
